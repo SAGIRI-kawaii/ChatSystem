@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f09ab38a-8fe8-46f4-a844-cabd39c48358" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ChatSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0757f4f5-d1d3-4295-bf42-74fd3fec1ce6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/colorui/animation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/colorui/components/cu-custom.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/colorui/icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/colorui/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/UPGRADE_GUIDE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/dist/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/dist/axios.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/dist/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/dist/axios.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/adapters/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/adapters/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/adapters/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/cancel/Cancel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/cancel/CancelToken.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/cancel/isCancel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/core/Axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/core/InterceptorManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/core/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/core/buildFullPath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/core/createError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/core/dispatchRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/core/enhanceError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/core/mergeConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/core/settle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/core/transformData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/defaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/helpers/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/helpers/bind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/helpers/buildURL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/helpers/combineURLs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/helpers/cookies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/helpers/deprecatedMethod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/helpers/isAbsoluteURL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/helpers/isAxiosError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/helpers/isURLSameOrigin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/helpers/normalizeHeaderName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/helpers/parseHeaders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/helpers/spread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/axios/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/follow-redirects/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/follow-redirects/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/follow-redirects/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/follow-redirects/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/follow-redirects/https.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/follow-redirects/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/follow-redirects/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/pages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/pages/chat.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/pages/contact/detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/pages/contact/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/pages/group/detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/pages/group/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/pages/index/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/pages/login-register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/pages/my/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/static/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/store/websocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/uni.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/unpackage/dist/build/.automator/h5/.automator.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/unpackage/dist/build/h5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/unpackage/dist/build/h5/static/index.58d5e7ce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/unpackage/dist/build/h5/static/js/chunk-vendors.977420d7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/unpackage/dist/build/h5/static/js/index.0e4b8253.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/unpackage/dist/build/h5/static/js/pages-chat.3779b718.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/unpackage/dist/build/h5/static/js/pages-contact-detail.2f7b5b9a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/unpackage/dist/build/h5/static/js/pages-contact-index.43f921c4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/unpackage/dist/build/h5/static/js/pages-group-detail.cfc954ae.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/unpackage/dist/build/h5/static/js/pages-group-index.94bca27f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/unpackage/dist/build/h5/static/js/pages-index-index.6e55dcf9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/unpackage/dist/build/h5/static/js/pages-login-register.361da494.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/unpackage/dist/build/h5/static/js/pages-my-index.b011ed5b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/unpackage/dist/build/h5/static/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/broadcast/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/broadcast/events/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/broadcast/events/add_friends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/crypto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/database/AsyncORM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/database/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/websocket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="data" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="220" column="14" lean-forward="true" selection-start-line="220" selection-start-column="14" selection-end-line="220" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server_run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="705" column="24" lean-forward="true" selection-start-line="705" selection-start-column="24" selection-end-line="705" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/database/AsyncORM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#14#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://Python/#/Users/duyifan/Desktop/Code/Python/ChatSystem/server/database/AsyncORM.py">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Python</ID>
+              <OriginalElement>#/Users/duyifan/Desktop/Code/Python/ChatSystem/server/database/AsyncORM.py</OriginalElement>
+              <nodes>
+                <node x="1299.4583333333333" y="106.0">Base</node>
+                <node x="291.4999999999999" y="212.0">server.database.AsyncORM.FriendChatRecord</node>
+                <node x="10.5" y="212.0">server.database.AsyncORM.AsyncORM</node>
+                <node x="2124.5" y="212.0">server.database.AsyncORM.GroupRelationship</node>
+                <node x="1773.5" y="212.0">server.database.AsyncORM.FriendRelationship</node>
+                <node x="628.4999999999999" y="212.0">server.database.AsyncORM.Group</node>
+                <node x="0.0" y="106.0">server.database.AsyncORM.AsyncEngine</node>
+                <node x="1520.5" y="212.0">server.database.AsyncORM.User</node>
+                <node x="888.4999999999999" y="212.0">server.database.AsyncORM.GroupChatRecord</node>
+                <node x="1218.5" y="212.0">server.database.AsyncORM.Application</node>
+                <node x="1303.75" y="0.0">object</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="server.database.AsyncORM.GroupRelationship" target="Base">
+                  <point x="-81.0" y="-13.0" />
+                  <point x="2205.5" y="162.0" />
+                  <point x="1353.3154761904761" y="162.0" />
+                  <point x="24.85714285714289" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.GroupChatRecord" target="Base">
+                  <point x="77.5" y="-13.0" />
+                  <point x="1121.0" y="182.0" />
+                  <point x="1320.172619047619" y="182.0" />
+                  <point x="-8.28571428571422" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.AsyncORM" target="server.database.AsyncORM.AsyncEngine">
+                  <point x="0.0" y="-13.0" />
+                  <point x="0.0" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.FriendRelationship" target="object">
+                  <point x="82.75" y="-13.0" />
+                  <point x="2021.75" y="66.0" />
+                  <point x="1363.75" y="66.0" />
+                  <point x="24.0" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.Application" target="object">
+                  <point x="70.5" y="-13.0" />
+                  <point x="1430.0" y="192.0" />
+                  <point x="1387.8174603174602" y="192.0" />
+                  <point x="1387.8174603174602" y="86.0" />
+                  <point x="1347.75" y="86.0" />
+                  <point x="8.0" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.FriendChatRecord" target="Base">
+                  <point x="79.25" y="-13.0" />
+                  <point x="529.2499999999999" y="162.0" />
+                  <point x="1303.6011904761904" y="162.0" />
+                  <point x="-24.85714285714289" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.User" target="object">
+                  <point x="58.25" y="-13.0" />
+                  <point x="1695.25" y="76.0" />
+                  <point x="1355.75" y="76.0" />
+                  <point x="16.0" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.Group" target="Base">
+                  <point x="60.0" y="-13.0" />
+                  <point x="808.4999999999999" y="172.0" />
+                  <point x="1311.8869047619046" y="172.0" />
+                  <point x="-16.57142857142867" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.GroupChatRecord" target="object">
+                  <point x="-77.5" y="-13.0" />
+                  <point x="965.9999999999999" y="152.0" />
+                  <point x="1005.4583333333333" y="152.0" />
+                  <point x="1005.4583333333333" y="76.0" />
+                  <point x="1331.75" y="76.0" />
+                  <point x="-8.0" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.FriendRelationship" target="Base">
+                  <point x="-82.75" y="-13.0" />
+                  <point x="1856.25" y="172.0" />
+                  <point x="1345.029761904762" y="172.0" />
+                  <point x="16.57142857142867" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.GroupRelationship" target="object">
+                  <point x="81.0" y="-13.0" />
+                  <point x="2367.5" y="56.0" />
+                  <point x="1371.75" y="56.0" />
+                  <point x="32.0" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.FriendChatRecord" target="object">
+                  <point x="-79.25" y="-13.0" />
+                  <point x="370.7499999999999" y="56.0" />
+                  <point x="1315.75" y="56.0" />
+                  <point x="-24.0" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.User" target="Base">
+                  <point x="-58.25" y="-13.0" />
+                  <point x="1578.75" y="182.0" />
+                  <point x="1336.7440476190475" y="182.0" />
+                  <point x="8.28571428571422" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.Application" target="Base">
+                  <point x="-70.5" y="-13.0" />
+                  <point x="1289.0" y="192.0" />
+                  <point x="1328.4583333333333" y="192.0" />
+                  <point x="0.0" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.AsyncEngine" target="object">
+                  <point x="0.0" y="-13.0" />
+                  <point x="141.0" y="46.0" />
+                  <point x="1307.75" y="46.0" />
+                  <point x="-32.0" y="13.0" />
+                </edge>
+                <edge source="Base" target="object">
+                  <point x="0.0" y="-13.0" />
+                  <point x="1328.4583333333333" y="86.0" />
+                  <point x="1339.75" y="86.0" />
+                  <point x="0.0" y="13.0" />
+                </edge>
+                <edge source="server.database.AsyncORM.Group" target="object">
+                  <point x="-60.0" y="-13.0" />
+                  <point x="688.4999999999999" y="66.0" />
+                  <point x="1323.75" y="66.0" />
+                  <point x="-16.0" y="13.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.5721133945153717" x="854.4972575380799" y="211.4972575380799" />
+              <SelectedNodes>
+                <node>object</node>
+              </SelectedNodes>
+              <Categories />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://0757f4f5-d1d3-4295-bf42-74fd3fec1ce6/schema/main/table/user">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="350f0664-31e2-47f2-a801-3c1fca740a09">
+              <filtering>
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://0757f4f5-d1d3-4295-bf42-74fd3fec1ce6/schema/main/table/group_chat_record">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="350f0664-31e2-47f2-a801-3c1fca740a09">
+              <filtering>
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/socket_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get_config</find>
+      <find>User.me</find>
+      <find>hexdigest</find>
+      <find>has</find>
+      <find>fetchone</find>
+      <find>disb</find>
+      <find>delete</find>
+      <find>getJ</find>
+      <find>add</find>
+      <find>get_member_permission_in_group</find>
+      <find>permission</find>
+      <find>user_id_to_detail</find>
+      <find>path</find>
+      <find>getF</find>
+      <find>140</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server.py" />
+        <option value="$PROJECT_DIR$/broadcast/events/__init__.py" />
+        <option value="$PROJECT_DIR$/broadcast/events/add_friends.py" />
+        <option value="$PROJECT_DIR$/AsyncORM.py" />
+        <option value="$PROJECT_DIR$/server/AsyncORM.py" />
+        <option value="$PROJECT_DIR$/server/Message/elements.py" />
+        <option value="$PROJECT_DIR$/server/Message/MessageChain.py" />
+        <option value="$PROJECT_DIR$/server/database/utils.py" />
+        <option value="$PROJECT_DIR$/server/broadcast/__init__.py" />
+        <option value="$PROJECT_DIR$/server/broadcast/events/add_friends.py" />
+        <option value="$PROJECT_DIR$/server/api.py" />
+        <option value="$PROJECT_DIR$/server/crypto.py" />
+        <option value="$PROJECT_DIR$/server_run.py" />
+        <option value="$PROJECT_DIR$/server/Exceptions.py" />
+        <option value="$PROJECT_DIR$/server/exceptions.py" />
+        <option value="$PROJECT_DIR$/socket_server.py" />
+        <option value="$PROJECT_DIR$/server/data.py" />
+        <option value="$PROJECT_DIR$/server/websocket.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/server/server.py" />
+        <option value="$PROJECT_DIR$/server/handler.py" />
+        <option value="$PROJECT_DIR$/server/test.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/server/database/AsyncORM.py" />
+        <option value="$PROJECT_DIR$/client/App.vue" />
+        <option value="$PROJECT_DIR$/doc.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ChatSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChatSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChatSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChatSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/database" />
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.server_run">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ChatSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server_run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ChatSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server_run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="socket_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ChatSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/socket_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ChatSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="websocket" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ChatSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server/websocket.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.server_run" />
+        <item itemvalue="Python.socket_server" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.websocket" />
+        <item itemvalue="Python.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f09ab38a-8fe8-46f4-a844-cabd39c48358" name="Default Changelist" comment="" />
+      <created>1620454035547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620454035547</updated>
+      <workItem from="1620454037137" duration="1864000" />
+      <workItem from="1620804153760" duration="8000" />
+      <workItem from="1620804204836" duration="7000" />
+      <workItem from="1621502185089" duration="28461000" />
+      <workItem from="1621748799839" duration="2424000" />
+      <workItem from="1621752045666" duration="45055000" />
+      <workItem from="1622122460802" duration="1880000" />
+      <workItem from="1622339746692" duration="520000" />
+      <workItem from="1623981983636" duration="2277000" />
+      <workItem from="1624281813345" duration="2172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84668000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2771673" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32513368" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32941177" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.22405373" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ChatSystem$server_run.coverage" NAME="server_run Coverage Results" MODIFIED="1623982098628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChatSystem$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1623982095537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChatSystem$server.coverage" NAME="server Coverage Results" MODIFIED="1621559799486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server" />
+    <SUITE FILE_PATH="coverage/ChatSystem$websocket.coverage" NAME="websocket Coverage Results" MODIFIED="1621867010028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server" />
+    <SUITE FILE_PATH="coverage/ChatSystem$test.coverage" NAME="test Coverage Results" MODIFIED="1622035740631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/server" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/Message/elements.py" />
+    <entry file="file://$PROJECT_DIR$/server/Message/MessageChain.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/qqbot/lib/python3.8/asyncio/base_events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="551" selection-start-line="551" selection-end-line="551" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0757f4f5-d1d3-4295-bf42-74fd3fec1ce6/schema/main/table/application">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="e3bed89b-f027-4e92-a9f2-dda1f889d4cc">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/broadcast/events/add_friends.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/broadcast/events/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/broadcast/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/database/utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/qqbot/lib/python3.8/site-packages/sqlalchemy/engine/result.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="985" column="8" selection-start-line="985" selection-start-column="8" selection-end-line="985" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/crypto.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0757f4f5-d1d3-4295-bf42-74fd3fec1ce6/schema/main/table/friend_relationship">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="9d144d5f-7e7a-4838-8647-ee652c54887e">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="608" column="17" selection-start-line="608" selection-start-column="17" selection-end-line="608" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/qqbot/lib/python3.8/site-packages/websockets/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="187" column="22" lean-forward="true" selection-start-line="187" selection-start-column="22" selection-end-line="187" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0757f4f5-d1d3-4295-bf42-74fd3fec1ce6/schema/main/table/group_relationship">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="9d144d5f-7e7a-4838-8647-ee652c54887e">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0757f4f5-d1d3-4295-bf42-74fd3fec1ce6/schema/main/table/friend_chat_record">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="2f126765-5a29-4b8f-a360-a4ac8737ecfb">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/websocket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="179" column="48" selection-start-line="179" selection-start-column="48" selection-end-line="179" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0757f4f5-d1d3-4295-bf42-74fd3fec1ce6/schema/main/table/group">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="2f126765-5a29-4b8f-a360-a4ac8737ecfb">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/database/AsyncORM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#14#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/duyifan/Desktop/Code/Python/ChatSystem/server/database/AsyncORM.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/duyifan/Desktop/Code/Python/ChatSystem/server/database/AsyncORM.py</OriginalElement>
+          <nodes>
+            <node x="1299.4583333333333" y="106.0">Base</node>
+            <node x="291.4999999999999" y="212.0">server.database.AsyncORM.FriendChatRecord</node>
+            <node x="10.5" y="212.0">server.database.AsyncORM.AsyncORM</node>
+            <node x="2124.5" y="212.0">server.database.AsyncORM.GroupRelationship</node>
+            <node x="1773.5" y="212.0">server.database.AsyncORM.FriendRelationship</node>
+            <node x="628.4999999999999" y="212.0">server.database.AsyncORM.Group</node>
+            <node x="0.0" y="106.0">server.database.AsyncORM.AsyncEngine</node>
+            <node x="1520.5" y="212.0">server.database.AsyncORM.User</node>
+            <node x="888.4999999999999" y="212.0">server.database.AsyncORM.GroupChatRecord</node>
+            <node x="1218.5" y="212.0">server.database.AsyncORM.Application</node>
+            <node x="1303.75" y="0.0">object</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="server.database.AsyncORM.GroupRelationship" target="Base">
+              <point x="-81.0" y="-13.0" />
+              <point x="2205.5" y="162.0" />
+              <point x="1353.3154761904761" y="162.0" />
+              <point x="24.85714285714289" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.GroupChatRecord" target="Base">
+              <point x="77.5" y="-13.0" />
+              <point x="1121.0" y="182.0" />
+              <point x="1320.172619047619" y="182.0" />
+              <point x="-8.28571428571422" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.AsyncORM" target="server.database.AsyncORM.AsyncEngine">
+              <point x="0.0" y="-13.0" />
+              <point x="0.0" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.FriendRelationship" target="object">
+              <point x="82.75" y="-13.0" />
+              <point x="2021.75" y="66.0" />
+              <point x="1363.75" y="66.0" />
+              <point x="24.0" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.Application" target="object">
+              <point x="70.5" y="-13.0" />
+              <point x="1430.0" y="192.0" />
+              <point x="1387.8174603174602" y="192.0" />
+              <point x="1387.8174603174602" y="86.0" />
+              <point x="1347.75" y="86.0" />
+              <point x="8.0" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.FriendChatRecord" target="Base">
+              <point x="79.25" y="-13.0" />
+              <point x="529.2499999999999" y="162.0" />
+              <point x="1303.6011904761904" y="162.0" />
+              <point x="-24.85714285714289" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.User" target="object">
+              <point x="58.25" y="-13.0" />
+              <point x="1695.25" y="76.0" />
+              <point x="1355.75" y="76.0" />
+              <point x="16.0" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.Group" target="Base">
+              <point x="60.0" y="-13.0" />
+              <point x="808.4999999999999" y="172.0" />
+              <point x="1311.8869047619046" y="172.0" />
+              <point x="-16.57142857142867" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.GroupChatRecord" target="object">
+              <point x="-77.5" y="-13.0" />
+              <point x="965.9999999999999" y="152.0" />
+              <point x="1005.4583333333333" y="152.0" />
+              <point x="1005.4583333333333" y="76.0" />
+              <point x="1331.75" y="76.0" />
+              <point x="-8.0" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.FriendRelationship" target="Base">
+              <point x="-82.75" y="-13.0" />
+              <point x="1856.25" y="172.0" />
+              <point x="1345.029761904762" y="172.0" />
+              <point x="16.57142857142867" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.GroupRelationship" target="object">
+              <point x="81.0" y="-13.0" />
+              <point x="2367.5" y="56.0" />
+              <point x="1371.75" y="56.0" />
+              <point x="32.0" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.FriendChatRecord" target="object">
+              <point x="-79.25" y="-13.0" />
+              <point x="370.7499999999999" y="56.0" />
+              <point x="1315.75" y="56.0" />
+              <point x="-24.0" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.User" target="Base">
+              <point x="-58.25" y="-13.0" />
+              <point x="1578.75" y="182.0" />
+              <point x="1336.7440476190475" y="182.0" />
+              <point x="8.28571428571422" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.Application" target="Base">
+              <point x="-70.5" y="-13.0" />
+              <point x="1289.0" y="192.0" />
+              <point x="1328.4583333333333" y="192.0" />
+              <point x="0.0" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.AsyncEngine" target="object">
+              <point x="0.0" y="-13.0" />
+              <point x="141.0" y="46.0" />
+              <point x="1307.75" y="46.0" />
+              <point x="-32.0" y="13.0" />
+            </edge>
+            <edge source="Base" target="object">
+              <point x="0.0" y="-13.0" />
+              <point x="1328.4583333333333" y="86.0" />
+              <point x="1339.75" y="86.0" />
+              <point x="0.0" y="13.0" />
+            </edge>
+            <edge source="server.database.AsyncORM.Group" target="object">
+              <point x="-60.0" y="-13.0" />
+              <point x="688.4999999999999" y="66.0" />
+              <point x="1323.75" y="66.0" />
+              <point x="-16.0" y="13.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5721133945153717" x="854.4972575380799" y="211.4972575380799" />
+          <SelectedNodes>
+            <node>object</node>
+          </SelectedNodes>
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0757f4f5-d1d3-4295-bf42-74fd3fec1ce6/schema/main/table/group_chat_record">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="350f0664-31e2-47f2-a801-3c1fca740a09">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0757f4f5-d1d3-4295-bf42-74fd3fec1ce6/schema/main/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="350f0664-31e2-47f2-a801-3c1fca740a09">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="220" column="14" lean-forward="true" selection-start-line="220" selection-start-column="14" selection-end-line="220" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server_run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="705" column="24" lean-forward="true" selection-start-line="705" selection-start-column="24" selection-end-line="705" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
